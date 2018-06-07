@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "heater"
-version = "0.0.0"
+version = "0.0.1"
 readme = "README.md"
 description = "heater makes heatmaps."
 authors = ["Bogdan Popa <popa.bogdanp@gmail.com>"]
